@@ -5,7 +5,7 @@ MERN Stack Developer
 --------------------
 
 * 🌍  I'm based in Australia
-* 🖥️  See my portfolio at [My Portfolio](http://my-portfolio-pariweshtamr.vercel.app/)
+* 🖥️  See my portfolio at [My Portfolio](https://www.tamrpariwesh.com)
 * ✉️  You can contact me at [tamrpariwesh@gmail.com](mailto:tamrpariwesh@gmail.com)
 
 ### Skills
