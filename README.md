@@ -46,4 +46,4 @@ MERN Stack Developer
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/pariweshtamr/react-portfolio-website" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pariweshtamr&repo=react-portfolio-website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/pariweshtamr/react-social-media-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pariweshtamr&repo=react-social-media-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/pariweshtamr/official-portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pariweshtamr&repo=official-portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
