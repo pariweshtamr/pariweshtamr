@@ -28,7 +28,7 @@ MERN Stack Developer
 ### Socials
 
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://tamrpariwesh.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]<a href="(https://tamrpariwesh.com/)"></a>
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pariwesh-tamrakar-a33200217/)
 
 ### Badges
