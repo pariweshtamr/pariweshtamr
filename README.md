@@ -5,13 +5,13 @@
 ###
 
 <div align="center">
-  <a href="https://www.tamrpariwesh.com" target="_blank">
+  <a href="https://www.tamrpariwesh.com" target="_blank" rel="noreferrer nofollow noopener">
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" height="25" alt="portfolio logo"/>
   </a>
-  <a href="https://www.linkedin.com/in/pariwesh-tamrakar/" target="_blank">
+  <a href="https://www.linkedin.com/in/pariwesh-tamrakar/" target="_blank" rel="noreferrer nofollow noopener">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="mailto:tamrpariwesh@gmail.com" target="_blank">
+  <a href="mailto:tamrpariwesh@gmail.com" target="_blank" rel="noreferrer nofollow noopener">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
