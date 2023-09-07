@@ -1,49 +1,94 @@
-Hi 👋 My name is Pariwesh
-=========================
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
 
-MERN Stack Developer
---------------------
+###
 
-* 🌍  I'm based in Australia
-* 🖥️  See my portfolio at [My Portfolio](https://www.tamrpariwesh.com)
-* ✉️  You can contact me at [tamrpariwesh@gmail.com](mailto:tamrpariwesh@gmail.com)
+<div align="center">
+  <a href="https://www.linkedin.com/in/pariwesh-tamrakar/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="tamrpariwesh@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
-### Skills
+###
 
-<p align="left">
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=pariweshtamr.pariweshtamr&"  />
+</div>
 
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+###
+
+<h1 align="left">Hi 👋 My name is Pariwesh</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">🔭 I’m working as a Full stack developer<br>🌍 I'm based in Sydney, Australia<br>📚 I'm currently learning TypeScript to level up my skills<br>⚡ In my free time I do some freelance work</p>
+
+###
+
+<h3 align="left">🛠 Language and Tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="36" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=css" height="36" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="36" alt="bootstrap logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="36" alt="tailwindcss logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=sass" height="36" alt="sass logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=js" height="36" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=react" height="36" alt="react logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="36" alt="nextjs logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=redux" height="36" alt="redux logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="nodejs logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=express" height="36" alt="express logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="36" alt="mongodb logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="36" alt="firebase logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=figma" height="36" alt="figma logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=git" height="36" alt="git logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="36" alt="npm logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/trello/0052CC" height="36" alt="trello logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
 
 
-### Socials
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=pariweshtamr&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
+###
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://tamrpariwesh.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pariwesh-tamrakar-a33200217/)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pariweshtamr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pariweshtamr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/pariweshtamr"><img src="https://github-readme-stats.vercel.app/api?username=pariweshtamr&show_icons=true&hide=stars,prs,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="pariweshtamr's GitHub stats" /></a>
-
-<a href="http://www.github.com/pariweshtamr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pariweshtamr&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/pariweshtamr/mern-soccer-store-frontend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pariweshtamr&repo=mern-soccer-store-frontend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/pariweshtamr/mern-soccer-store-backend" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pariweshtamr&repo=mern-soccer-store-backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br />
-
-<div width="100%" align="center"><a href="https://github.com/pariweshtamr/official-portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pariweshtamr&repo=official-portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+###
