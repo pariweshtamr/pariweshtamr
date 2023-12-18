@@ -53,6 +53,8 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=js" height="36" alt="javascript logo"  />
   <img width="8" />
+  <img src="https://skillicons.dev/icons?i=ts" height="36" alt="typescipt logo"  />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=react" height="36" alt="react logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="36" alt="nextjs logo"  />
