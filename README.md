@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">🔭 I’m working as a Full stack developer<br>🌍 I'm based in Sydney, Australia<br>📚 I'm currently learning latest versions of Next.js and Next-Auth to level up my skills<br>⚡ I also do some freelance work</p>
+<p align="left">🔭 I’m working as a Freelance developer<br>🌍 I'm based in Sydney, Australia<br>📚 I'm currently learning latest versions of Nest.js and Docker to level up my skills<br>
 
 ###
 
