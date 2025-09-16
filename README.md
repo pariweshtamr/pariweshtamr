@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.tamrpariwesh.com" target="_blank" rel="noreferrer nofollow noopener">
+  <a href="https://www.ptamrakar.dev" target="_blank" rel="noreferrer nofollow noopener">
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" height="25" alt="portfolio logo"/>
   </a>
   <a href="https://www.linkedin.com/in/pariwesh-tamrakar/" target="_blank" rel="noreferrer nofollow noopener">
@@ -22,7 +22,7 @@
 
 ###
 
-<h1 align="left">Hi 👋 My name is Pariwesh</h1>
+<h1 align="left">Hi 👋 My name is Pariweshh</h1>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">🔭 I’m working as a Freelance developer<br>🌍 I'm based in Sydney, Australia<br>📚 I'm currently learning latest versions of Nest.js and Docker to level up my skills<br>
+<p align="left">🔭 I’m working as a Freelance developer<br>🌍 I'm based in Sydney, Australia<br>📚 I'm currently learning advanced Python and Gen AI to level up my skills<br>
 
 ###
 
