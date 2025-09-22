@@ -6,7 +6,7 @@
   <a href="https://www.ptamrakar.dev" target="_blank" rel="noreferrer nofollow noopener">
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" height="25" alt="portfolio logo"/>
   </a>
-  <a href="https://www.linkedin.com/in/pariwesh-tamrakar/" target="_blank" rel="noreferrer nofollow noopener">
+  <a href="https://www.linkedin.com/in/pariweshhtamrakar/" target="_blank" rel="noreferrer nofollow noopener">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="mailto:pariweshtamrakar@gmail.com" target="_blank" rel="noreferrer nofollow noopener">
